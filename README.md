@@ -18,7 +18,7 @@ Sinta-se à vontade para contribuir com novas soluções ou propor melhorias nas
 
 ## Indice:
 
-[]()
+[Ex01](Ex01)
 - **Name:** Bird Watcher
 - **Exercise Learning goals:** Arrays, For Loops, Foreach Loops
 - **Link:** https://exercism.org/tracks/csharp/exercises/bird-watcher
