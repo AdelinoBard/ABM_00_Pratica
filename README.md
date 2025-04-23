@@ -22,3 +22,9 @@ Sinta-se à vontade para contribuir com novas soluções ou propor melhorias nas
 - **Name:** Bird Watcher
 - **Exercise Learning goals:** Arrays, For Loops, Foreach Loops
 - **Link:** https://exercism.org/tracks/csharp/exercises/bird-watcher
+
+[Ex02](Ex02)
+- **Name:** Lucian's Luscious Lasagna
+- **Exercise Learning goals:** Basics
+- **Link:** https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna
+
